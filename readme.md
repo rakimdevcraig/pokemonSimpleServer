@@ -1,15 +1,23 @@
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8000`
+
 Pokemon API
 
 When selecting a Pokemon name you will be able to see what type and category that Pokemon is
 so if you're a novice you can come and find out about some of the base Pokemon.
 
-Demo:
-
-
+![pic](pic.jpg)
 
 How It's Made:
 
-Tech used:Html, Css, Javascript, Node
+Tech used:HTML, CSS, Javascript, Node
 
 Html was used to make a dropdown menu which enables users to select which Pokemon information would
 be displayed for. Javascript was used to create the onclick event which sends a request to the server and also which printed the information to the DOM. Node was used to handle the server response and write back the information about each Pokemon.
@@ -20,8 +28,3 @@ I would like to add more Pokemon because right now I only have the 4 main Pokemo
 
 Lessons Learned:
 This was my second project incorporating the backend. I learned how to incorporate more than one HTML page in my node locally hosted server. If you check my rockpaper project I wasn't able to do that so i've made progress.
-
-
-Examples:
-
-Take a look at these other example that I have in my own portfolio
